@@ -1,0 +1,8 @@
+d:\Projects\Visual Studio\Isihogy_Test\bin\otchet.dll.config
+d:\Projects\Visual Studio\Isihogy_Test\bin\otchet.dll
+d:\Projects\Visual Studio\Isihogy_Test\bin\otchet.pdb
+d:\Projects\Visual Studio\Isihogy_Test\obj\Debug\isihogy_t.csproj.ResolveComReference.cache
+d:\Projects\Visual Studio\Isihogy_Test\obj\Debug\isihogy_t.csproj.CoreCompileInputs.cache
+d:\Projects\Visual Studio\Isihogy_Test\obj\Debug\otchet.dll
+d:\Projects\Visual Studio\Isihogy_Test\obj\Debug\otchet.pdb
+d:\Projects\Visual Studio\Isihogy_Test\obj\Debug\isihogy_t.csprojResolveAssemblyReference.cache

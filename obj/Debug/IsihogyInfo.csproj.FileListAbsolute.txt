@@ -1,0 +1,23 @@
+d:\Projects\Visual Studio\Isihogy_v2\bin\IsihogyInfo.dll.config
+d:\Projects\Visual Studio\Isihogy_v2\bin\IsihogyInfo.dll
+d:\Projects\Visual Studio\Isihogy_v2\bin\IsihogyInfo.pdb
+d:\Projects\Visual Studio\Isihogy_v2\obj\Debug\IsihogyInfo.csproj.ResolveComReference.cache
+d:\Projects\Visual Studio\Isihogy_v2\obj\Debug\IsihogyInfo.csproj.CoreCompileInputs.cache
+d:\Projects\Visual Studio\Isihogy_v2\obj\Debug\IsihogyInfo.dll
+d:\Projects\Visual Studio\Isihogy_v2\obj\Debug\IsihogyInfo.pdb
+d:\Projects\Visual Studio\Isihogy_v2\obj\Debug\IsihogyInfo.csprojResolveAssemblyReference.cache
+d:\Projects\Visual Studio\test2\bin\IsihogyInfo.dll.config
+d:\Projects\Visual Studio\test2\bin\IsihogyInfo.dll
+d:\Projects\Visual Studio\test2\bin\IsihogyInfo.pdb
+d:\Projects\Visual Studio\test2\obj\Debug\IsihogyInfo.csproj.ResolveComReference.cache
+d:\Projects\Visual Studio\test2\obj\Debug\IsihogyInfo.csproj.CoreCompileInputs.cache
+d:\Projects\Visual Studio\test2\obj\Debug\IsihogyInfo.dll
+d:\Projects\Visual Studio\test2\obj\Debug\IsihogyInfo.pdb
+d:\Projects\Visual Studio\test2\obj\Debug\IsihogyInfo.csprojResolveAssemblyReference.cache
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\bin\IsihogyInfo.dll.config
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\bin\IsihogyInfo.dll
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\bin\IsihogyInfo.pdb
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\obj\Debug\IsihogyInfo.csproj.ResolveComReference.cache
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\obj\Debug\IsihogyInfo.csproj.CoreCompileInputs.cache
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\obj\Debug\IsihogyInfo.dll
+d:\Projects\Visual Studio\Webix Jet+TypeScript+WebPack\obj\Debug\IsihogyInfo.pdb

@@ -1,0 +1,66 @@
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\otchet.dll.config
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\otchet.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\otchet.pdb
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\ClosedXML.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\DatumNode.Access.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\DocumentFormat.OpenXml.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\Microsoft.Maps.MapControl.Common.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\Newtonsoft.Json.Net35.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\TeamNet.Data.FileExport.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\ClosedXML.xml
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\DocumentFormat.OpenXml.xml
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\Microsoft.Maps.MapControl.Common.xml
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\bin\Newtonsoft.Json.Net35.pdb
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.dll
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.pdb
+c:\Work\Исходники\НАИС\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.csprojResolveAssemblyReference.cache
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\otchet.dll.config
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\otchet.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\otchet.pdb
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\ClosedXML.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\DocumentFormat.OpenXml.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\Microsoft.Maps.MapControl.Common.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\Newtonsoft.Json.Net35.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\Oracle.DataAccess.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\TeamNet.Data.FileExport.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\ClosedXML.xml
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\DocumentFormat.OpenXml.xml
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\Microsoft.Maps.MapControl.Common.xml
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\bin\Newtonsoft.Json.Net35.pdb
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.dll
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.pdb
+c:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.csproj.ResolveComReference.cache
+C:\Projects\nais\trunk\SourceCode\ReportFor03\otchet\obj\Debug\otchet.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\otchet.dll.config
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\otchet.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\otchet.pdb
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\ClosedXML.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\DocumentFormat.OpenXml.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\Microsoft.Maps.MapControl.Common.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\Newtonsoft.Json.Net35.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\TeamNet.Data.FileExport.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\ClosedXML.xml
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\DocumentFormat.OpenXml.xml
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\Microsoft.Maps.MapControl.Common.xml
+D:\Projects\Visual Studio\Isihogy1\isihogy\bin\Newtonsoft.Json.Net35.pdb
+D:\Projects\Visual Studio\Isihogy1\isihogy\obj\Debug\otchet.csproj.ResolveComReference.cache
+D:\Projects\Visual Studio\Isihogy1\isihogy\obj\Debug\otchet.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\Isihogy1\isihogy\obj\Debug\otchet.dll
+D:\Projects\Visual Studio\Isihogy1\isihogy\obj\Debug\otchet.pdb
+c:\Projects\Visual Studio\Isihogy\bin\otchet.dll.config
+c:\Projects\Visual Studio\Isihogy\bin\otchet.dll
+c:\Projects\Visual Studio\Isihogy\bin\otchet.pdb
+c:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csproj.ResolveComReference.cache
+c:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csproj.CoreCompileInputs.cache
+c:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csproj.CopyComplete
+c:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.dll
+c:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.pdb
+c:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csprojResolveAssemblyReference.cache
+d:\Projects\Visual Studio\Isihogy\bin\otchet.dll.config
+d:\Projects\Visual Studio\Isihogy\bin\otchet.dll
+d:\Projects\Visual Studio\Isihogy\bin\otchet.pdb
+d:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csproj.ResolveComReference.cache
+d:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csproj.CoreCompileInputs.cache
+d:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.dll
+d:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.pdb
+d:\Projects\Visual Studio\Isihogy\obj\Debug\otchet.csprojResolveAssemblyReference.cache
