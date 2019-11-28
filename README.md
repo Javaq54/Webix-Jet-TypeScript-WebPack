@@ -1,31 +1,7 @@
 Webix Jet Demo App
 ===================
 
-### How to run
-
-- run ```npm install```
-- run ```npm start```
-- open ```http://localhost:8080```
-
-For more details, check https://www.gitbook.com/book/webix/webix-jet/details
-
-### Other commands
-
-#### Run lint
-
-```
-npm run lint
-```
-
-#### Build production files
-
-```
-npm run build
-```
-
-After that you can copy the "codebase" folder to the production server
-
-
-### License
-
-MIT
+#1.Установить последний node
+#2.В папку проекта установить webpack и webpack cli
+#3.В visual studio устанвоить Webpack Task Runner
+#4.Снять галочку в проектах и решениях web
